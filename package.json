@@ -7,7 +7,7 @@
     "start": "node Engie.py"
   },
   "dependencies": {
-    "discord.py": "11.1.0",
+    "discord.ext": "11.1.0",
     "request": "2.81.0"
   }
 }
