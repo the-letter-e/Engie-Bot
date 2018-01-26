@@ -1,0 +1,13 @@
+{
+  "name": "Test",
+  "Description": "Test",
+  "version": "0.0.0",
+  "main": "Engie.py",
+  "scripts": {
+    "start": "node Engie.py"
+  },
+  "dependencies": {
+    "discord.py": "11.1.0",
+    "request": "2.81.0"
+  }
+}
