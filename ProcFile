@@ -1,1 +1,1 @@
-worker: node Engie.py Engie.py
+worker: node Engie.py
